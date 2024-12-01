@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2024 - To: 30 November 2024
+From: 24 November 2024 - To: 01 December 2024
 
-Total Time: 33 hrs 6 mins
+Total Time: 33 hrs 5 mins
 
-TypeScript        22 hrs 56 mins  █████████████████▒░░░░░░░   69.32 %
+TypeScript        22 hrs 56 mins  █████████████████▒░░░░░░░   69.33 %
 Java              3 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-Other             1 hr 54 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Other             1 hr 54 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
 JSON              1 hr 37 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
 Kotlin            1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 ```

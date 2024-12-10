@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2024 - To: 08 December 2024
+From: 03 December 2024 - To: 10 December 2024
 
-Total Time: 37 hrs 38 mins
+Total Time: 33 hrs 19 mins
 
-Java                       14 hrs 33 mins  █████████▓░░░░░░░░░░░░░░░   38.66 %
-Other                      9 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   24.50 %
-TypeScript                 5 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
-YAML                       2 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-Kotlin                     1 hr 58 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Other                      12 hrs 4 mins   █████████░░░░░░░░░░░░░░░░   36.23 %
+TypeScript                 7 hrs 51 mins   ██████░░░░░░░░░░░░░░░░░░░   23.56 %
+Java                       3 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
+Prisma                     1 hr 51 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+JavaScript                 1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
 ```
 
 <!--END_SECTION:waka-->

@@ -15,11 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2025 - To: 04 February 2025
+From: 29 January 2025 - To: 05 February 2025
 
-Total Time: 0 secs
+Total Time: 5 hrs 55 mins
 
-No activity tracked
+TypeScript   3 hrs 24 mins   ██████████████▒░░░░░░░░░░   57.44 %
+Other        1 hr 38 mins    ███████░░░░░░░░░░░░░░░░░░   27.81 %
+Text         29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+Dockerfile   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->

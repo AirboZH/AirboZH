@@ -15,12 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 February 2025 - To: 04 March 2025
+From: 26 February 2025 - To: 05 March 2025
 
 Total Time: 17 hrs 19 mins
 
-TypeScript       13 hrs 6 mins   ███████████████████░░░░░░   75.67 %
-Other            2 hrs 50 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
+TypeScript       13 hrs 25 mins  ███████████████████▒░░░░░   77.50 %
+Other            2 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
 Astro            24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 JSON             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 CSS              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %

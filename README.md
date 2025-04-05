@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 March 2025 - To: 03 April 2025
+From: 28 March 2025 - To: 04 April 2025
 
-Total Time: 28 hrs 42 mins
+Total Time: 25 hrs 42 mins
 
-TypeScript       10 hrs 46 mins  █████████▒░░░░░░░░░░░░░░░   37.52 %
-JSON             8 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   28.30 %
-YAML             2 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-Dockerfile       1 hr 53 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-TSConfig         1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+TypeScript       11 hrs 50 mins  ███████████▓░░░░░░░░░░░░░   46.08 %
+JSON             5 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   20.20 %
+YAML             2 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+Dockerfile       1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Bash             51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
 ```
 
 <!--END_SECTION:waka-->

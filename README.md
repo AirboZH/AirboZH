@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 April 2025 - To: 21 April 2025
+From: 15 April 2025 - To: 22 April 2025
 
-Total Time: 20 hrs 22 mins
+Total Time: 16 hrs 7 mins
 
-TypeScript         15 hrs 40 mins  ███████████████████▒░░░░░   76.95 %
-Python             1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-JSON               50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-.env file          27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Bash               22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+TypeScript         11 hrs 27 mins  █████████████████▓░░░░░░░   71.03 %
+Python             1 hr 23 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+JSON               1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+.env file          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+textmate           20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
 ```
 
 <!--END_SECTION:waka-->

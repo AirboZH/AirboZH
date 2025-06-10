@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 June 2025 - To: 08 June 2025
+From: 02 June 2025 - To: 09 June 2025
 
-Total Time: 14 hrs
+Total Time: 13 hrs 46 mins
 
-TypeScript       7 hrs 51 mins   ██████████████░░░░░░░░░░░   56.18 %
-Dockerfile       2 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
-YAML             1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-JSON             49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
-Bash             46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+TypeScript       7 hrs 50 mins   ██████████████▒░░░░░░░░░░   56.93 %
+Dockerfile       2 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
+YAML             1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+Bash             46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+JSON             45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
 ```
 
 <!--END_SECTION:waka-->

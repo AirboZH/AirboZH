@@ -15,15 +15,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 July 2025 - To: 21 July 2025
+From: 15 July 2025 - To: 22 July 2025
 
-Total Time: 3 hrs 1 min
+Total Time: 2 hrs 42 mins
 
-TypeScript   2 hrs 35 mins   █████████████████████▒░░░   85.49 %
-Other        15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
-SQL          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-.env file    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+TypeScript   2 hrs 16 mins   █████████████████████░░░░   83.86 %
+Other        15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
+JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+SQL          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+.env file    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->

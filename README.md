@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2025 - To: 08 September 2025
+From: 02 September 2025 - To: 09 September 2025
 
-Total Time: 9 hrs 27 mins
+Total Time: 10 hrs 20 mins
 
-TypeScript       8 hrs 24 mins   ██████████████████████▒░░   88.94 %
-JSON             36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-YAML             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-.env file        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-Git              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+TypeScript       9 hrs 13 mins   ██████████████████████▒░░   89.17 %
+JSON             32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+TOML             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Other            8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+.env file        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->

@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2025 - To: 15 October 2025
+From: 09 October 2025 - To: 16 October 2025
 
-Total Time: 9 hrs 15 mins
+Total Time: 9 hrs 30 mins
 
-TypeScript       6 hrs 59 mins   ███████████████████░░░░░░   75.56 %
-Other            1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-JavaScript       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-SQL              13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-JSON             11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+TypeScript       6 hrs 34 mins   █████████████████▒░░░░░░░   69.21 %
+Go               1 hr 32 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
+SQL              33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Image (svg)      11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+JSON             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->

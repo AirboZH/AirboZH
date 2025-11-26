@@ -6,15 +6,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2025 - To: 24 November 2025
+From: 18 November 2025 - To: 25 November 2025
 
-Total Time: 24 hrs 28 mins
+Total Time: 22 hrs 15 mins
 
-Go               14 hrs 9 mins   ██████████████▒░░░░░░░░░░   57.85 %
-TypeScript       3 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
-SQL              1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-textmate         1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-Dockerfile       1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+Go               13 hrs 14 mins  ███████████████░░░░░░░░░░   59.44 %
+TypeScript       3 hrs 48 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
+SQL              1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Other            1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+textmate         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
 
 <!--END_SECTION:waka-->
